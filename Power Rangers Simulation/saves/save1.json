@@ -1,0 +1,332 @@
+{
+  "save_timestamp": "2025-05-28T20:21:35.026593",
+  "game_version": "2.0",
+  "character": {
+    "name": "as\u011fdoakd",
+    "color": "Blue",
+    "power_type": "Super Megaforce",
+    "weapon": "Power Blaster",
+    "level": 7,
+    "xp": 611,
+    "max_health": 135,
+    "current_health": 99.0,
+    "attack": 70,
+    "defense": 29,
+    "speed": 36,
+    "gold": 675.34,
+    "mega_energy": 1,
+    "skill_points": 3,
+    "ranger_keys": [
+      "Pink Ranger Key",
+      "Blue Ranger Key",
+      "Red Ranger Key",
+      "Gold Ranger Key",
+      "Silver Ranger Key",
+      "White Ranger Key"
+    ],
+    "battle_history": [
+      {
+        "enemy": "Zombats",
+        "result": "victory",
+        "turns": 1,
+        "gold_earned": 30,
+        "xp_earned": 24,
+        "timestamp": 1748452213.4311838
+      },
+      {
+        "enemy": "Bruisers",
+        "result": "victory",
+        "turns": 2,
+        "gold_earned": 30,
+        "xp_earned": 24,
+        "timestamp": 1748452222.4045691
+      },
+      {
+        "enemy": "X-Borgs",
+        "result": "victory",
+        "turns": 2,
+        "gold_earned": 24,
+        "xp_earned": 19,
+        "timestamp": 1748452232.121206
+      },
+      {
+        "enemy": "Loogies",
+        "result": "victory",
+        "turns": 1,
+        "gold_earned": 24,
+        "xp_earned": 19,
+        "timestamp": 1748452237.798458
+      },
+      {
+        "enemy": "X-Borgs",
+        "result": "victory",
+        "turns": 2,
+        "gold_earned": 24,
+        "xp_earned": 19,
+        "timestamp": 1748452246.346688
+      },
+      {
+        "enemy": "X-Borgs",
+        "result": "victory",
+        "turns": 5,
+        "gold_earned": 24,
+        "xp_earned": 19,
+        "timestamp": 1748452474.881512
+      },
+      {
+        "enemy": "Bruisers",
+        "result": "victory",
+        "turns": 4,
+        "gold_earned": 40,
+        "xp_earned": 32,
+        "timestamp": 1748452499.6394958
+      },
+      {
+        "enemy": "Bruisers",
+        "result": "victory",
+        "turns": 3,
+        "gold_earned": 44,
+        "xp_earned": 35,
+        "timestamp": 1748452526.909121
+      },
+      {
+        "enemy": "X-Borgs",
+        "result": "victory",
+        "turns": 5,
+        "gold_earned": 40,
+        "xp_earned": 32,
+        "timestamp": 1748452574.891856
+      },
+      {
+        "enemy": "X-Borgs",
+        "result": "victory",
+        "turns": 1,
+        "gold_earned": 40,
+        "xp_earned": 32,
+        "timestamp": 1748452587.9425228
+      },
+      {
+        "enemy": "Bruisers",
+        "result": "victory",
+        "turns": 6,
+        "gold_earned": 40,
+        "xp_earned": 32,
+        "timestamp": 1748452719.5700202
+      },
+      {
+        "enemy": "Zombats",
+        "result": "victory",
+        "turns": 2,
+        "gold_earned": 25,
+        "xp_earned": 20,
+        "timestamp": 1748452739.5537229
+      },
+      {
+        "enemy": "Bruisers",
+        "result": "victory",
+        "turns": 4,
+        "gold_earned": 25,
+        "xp_earned": 20,
+        "timestamp": 1748452777.4191308
+      },
+      {
+        "enemy": "Loogies",
+        "result": "victory",
+        "turns": 1,
+        "gold_earned": 25,
+        "xp_earned": 20,
+        "timestamp": 1748452779.1514509
+      },
+      {
+        "enemy": "Zombats",
+        "result": "victory",
+        "turns": 1,
+        "gold_earned": 25,
+        "xp_earned": 20,
+        "timestamp": 1748452780.3485482
+      },
+      {
+        "enemy": "Bruisers",
+        "result": "victory",
+        "turns": 1,
+        "gold_earned": 25,
+        "xp_earned": 20,
+        "timestamp": 1748452800.3266308
+      },
+      {
+        "enemy": "Bruisers",
+        "result": "victory",
+        "turns": 2,
+        "gold_earned": 25,
+        "xp_earned": 20,
+        "timestamp": 1748452813.990515
+      },
+      {
+        "enemy": "Bruisers",
+        "result": "victory",
+        "turns": 2,
+        "gold_earned": 25,
+        "xp_earned": 20,
+        "timestamp": 1748452821.340003
+      },
+      {
+        "enemy": "Loogies",
+        "result": "victory",
+        "turns": 2,
+        "gold_earned": 25,
+        "xp_earned": 20,
+        "timestamp": 1748452831.640063
+      },
+      {
+        "enemy": "X-Borgs",
+        "result": "victory",
+        "turns": 2,
+        "gold_earned": 25,
+        "xp_earned": 20,
+        "timestamp": 1748452852.047612
+      }
+    ],
+    "investments": {
+      "Gold": {
+        "amount": 1,
+        "avg_price": 249.66
+      }
+    },
+    "skills": {
+      "Power Strike": true,
+      "Mega Blast": true,
+      "Healing Light": true,
+      "Speed Boost": true,
+      "Medic Protocol": true
+    },
+    "limb_damage": {
+      "arms": 0,
+      "legs": 0
+    },
+    "status_effects": []
+  },
+  "stock_market": {
+    "commodities": {
+      "Gold": {
+        "price": 552.93,
+        "volatility": 0.1,
+        "trend": 1.0,
+        "volume": 289
+      },
+      "Silver": {
+        "price": 103.32,
+        "volatility": 0.15,
+        "trend": 0.30000000000000004,
+        "volume": 895
+      },
+      "Crypto": {
+        "price": 783.63,
+        "volatility": 0.25,
+        "trend": 0.8999999999999999,
+        "volume": 729
+      },
+      "Energy Crystals": {
+        "price": 928.47,
+        "volatility": 0.2,
+        "trend": 0.8,
+        "volume": 489
+      },
+      "Morphin Grid": {
+        "price": 142.36,
+        "volatility": 0.3,
+        "trend": -0.5,
+        "volume": 759
+      }
+    },
+    "price_history": {
+      "Gold": [
+        205.3275216196458,
+        217.13436909885172,
+        231.18278794524502,
+        249.66415910012,
+        277.2758381186147,
+        320.0180020024379,
+        358.6828379223985,
+        390.5553223883498,
+        466.4355642882424,
+        552.9309611908163
+      ],
+      "Silver": [
+        70.15372332179753,
+        73.97126212682323,
+        66.71641466464243,
+        72.8331321570137,
+        82.32574813268369,
+        91.59554014601088,
+        81.59616640364159,
+        89.37103510003944,
+        98.23496535673664,
+        103.32243070565546
+      ],
+      "Crypto": [
+        371.8093092166269,
+        475.4016297010054,
+        538.1682286825169,
+        529.3884624205849,
+        531.1192735284756,
+        622.700197709754,
+        726.194377239677,
+        671.6486684980442,
+        667.0553130563709,
+        783.6251076491134
+      ],
+      "Energy Crystals": [
+        507.3697331960849,
+        559.8443529879398,
+        645.8245979788454,
+        689.7506890340176,
+        883.8937507740713,
+        947.3128039145129,
+        1000,
+        960.0160105179912,
+        1000,
+        928.4746683327038
+      ],
+      "Morphin Grid": [
+        205.83046452702817,
+        268.865090681314,
+        236.09350695115285,
+        176.64605499614714,
+        206.37903508467042,
+        170.85324159106932,
+        145.1289750705628,
+        186.2370580805104,
+        156.32330915074607,
+        142.3623608033135
+      ]
+    },
+    "market_events": [
+      {
+        "event": "\u26a1 Energy fluctuations affect Energy Crystals market!",
+        "timestamp": 1748452246.346745,
+        "commodity": "Energy Crystals"
+      },
+      {
+        "event": "\u26a1 Energy fluctuations affect Crypto market!",
+        "timestamp": 1748452499.639544,
+        "commodity": "Crypto"
+      },
+      {
+        "event": "\u26a1 Energy fluctuations affect Energy Crystals market!",
+        "timestamp": 1748452499.6395562,
+        "commodity": "Energy Crystals"
+      },
+      {
+        "event": "\u26a1 Energy fluctuations affect Crypto market!",
+        "timestamp": 1748452719.570125,
+        "commodity": "Crypto"
+      },
+      {
+        "event": "\ud83d\udea8 Monster attacks disrupt Energy Crystals supply chains!",
+        "timestamp": 1748452780.348796,
+        "commodity": "Energy Crystals"
+      }
+    ]
+  },
+  "game_state": {}
+}

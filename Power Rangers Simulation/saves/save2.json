@@ -1,0 +1,126 @@
+{
+  "save_timestamp": "2025-05-28T19:30:59.525045",
+  "game_version": "2.0",
+  "character": {
+    "name": "kayra",
+    "color": "Blue",
+    "power_type": "Super Megaforce",
+    "weapon": "Power Blaster",
+    "level": 1,
+    "xp": 48,
+    "max_health": 105,
+    "current_health": 105,
+    "attack": 40,
+    "defense": 15,
+    "speed": 18,
+    "gold": 160,
+    "mega_energy": 5,
+    "skill_points": 0,
+    "ranger_keys": [],
+    "battle_history": [
+      {
+        "enemy": "Zombats",
+        "result": "victory",
+        "turns": 1,
+        "gold_earned": 30,
+        "xp_earned": 24,
+        "timestamp": 1748449844.233609
+      },
+      {
+        "enemy": "Loogies",
+        "result": "victory",
+        "turns": 1,
+        "gold_earned": 30,
+        "xp_earned": 24,
+        "timestamp": 1748449851.2555032
+      }
+    ],
+    "investments": {},
+    "skills": {
+      "Power Strike": false,
+      "Mega Blast": false,
+      "Healing Light": false,
+      "Speed Boost": false,
+      "Medic Protocol": false
+    },
+    "limb_damage": {
+      "arms": 0,
+      "legs": 0
+    },
+    "status_effects": []
+  },
+  "stock_market": {
+    "commodities": {
+      "Gold": {
+        "price": 94.38,
+        "volatility": 0.1,
+        "trend": 0.0,
+        "volume": 535
+      },
+      "Silver": {
+        "price": 46.24,
+        "volatility": 0.15,
+        "trend": -0.2,
+        "volume": 460
+      },
+      "Crypto": {
+        "price": 273.72,
+        "volatility": 0.25,
+        "trend": 0.2,
+        "volume": 495
+      },
+      "Energy Crystals": {
+        "price": 112.14,
+        "volatility": 0.2,
+        "trend": -0.2,
+        "volume": 610
+      },
+      "Morphin Grid": {
+        "price": 264.85,
+        "volatility": 0.3,
+        "trend": 0.0,
+        "volume": 912
+      }
+    },
+    "price_history": {
+      "Gold": [
+        100,
+        101.10916471239877,
+        101.2370725925211,
+        94.38243043381992
+      ],
+      "Silver": [
+        50,
+        47.507688621455564,
+        40.95586387314964,
+        46.239985612236076
+      ],
+      "Crypto": [
+        200,
+        207.96087814557112,
+        230.82622659774177,
+        273.7229067199986
+      ],
+      "Energy Crystals": [
+        150,
+        154.45245939201834,
+        134.25112502188804,
+        112.14175117519493
+      ],
+      "Morphin Grid": [
+        300,
+        246.87714286921104,
+        259.8837902499266,
+        264.85475707164863
+      ]
+    },
+    "market_events": [
+      {
+        "event": "\ud83d\udcc8 Crypto demand surges due to Ranger activity!",
+        "timestamp": 1748449851.2555919,
+        "commodity": "Crypto"
+      }
+    ]
+  },
+  "game_state": {}
+}

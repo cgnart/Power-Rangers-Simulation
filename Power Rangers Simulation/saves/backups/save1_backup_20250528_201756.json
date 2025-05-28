@@ -1,0 +1,93 @@
+{
+  "save_timestamp": "2025-05-28T19:30:06.375020",
+  "game_version": "2.0",
+  "character": {
+    "name": "as\u011fdoakd",
+    "color": "Blue",
+    "power_type": "Super Megaforce",
+    "weapon": "Power Blaster",
+    "level": 1,
+    "xp": 0,
+    "max_health": 105,
+    "current_health": 105,
+    "attack": 40,
+    "defense": 15,
+    "speed": 18,
+    "gold": 100,
+    "mega_energy": 3,
+    "skill_points": 0,
+    "ranger_keys": [],
+    "battle_history": [],
+    "investments": {},
+    "skills": {
+      "Power Strike": false,
+      "Mega Blast": false,
+      "Healing Light": false,
+      "Speed Boost": false,
+      "Medic Protocol": false
+    },
+    "limb_damage": {
+      "arms": 0,
+      "legs": 0
+    },
+    "status_effects": []
+  },
+  "stock_market": {
+    "commodities": {
+      "Gold": {
+        "price": 104.74,
+        "volatility": 0.1,
+        "trend": 0.0,
+        "volume": 289
+      },
+      "Silver": {
+        "price": 47.63,
+        "volatility": 0.15,
+        "trend": 0.0,
+        "volume": 895
+      },
+      "Crypto": {
+        "price": 211.42,
+        "volatility": 0.25,
+        "trend": 0.0,
+        "volume": 729
+      },
+      "Energy Crystals": {
+        "price": 174.36,
+        "volatility": 0.2,
+        "trend": 0.0,
+        "volume": 489
+      },
+      "Morphin Grid": {
+        "price": 330.82,
+        "volatility": 0.3,
+        "trend": 0.0,
+        "volume": 759
+      }
+    },
+    "price_history": {
+      "Gold": [
+        100,
+        104.74175130824383
+      ],
+      "Silver": [
+        50,
+        47.63330203890178
+      ],
+      "Crypto": [
+        200,
+        211.42432108857858
+      ],
+      "Energy Crystals": [
+        150,
+        174.36130451444362
+      ],
+      "Morphin Grid": [
+        300,
+        330.8215534364645
+      ]
+    },
+    "market_events": []
+  },
+  "game_state": {}
+}
