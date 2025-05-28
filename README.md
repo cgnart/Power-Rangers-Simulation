@@ -53,3 +53,10 @@ python main.py
 
 🛡️ Made with passion by Fay Hattı Studios
 
+# Contributors
+
+- [Çağan Deniz Yapıcı](https://github.com/cgnart)
+- [Kayra Serdar Tosun](https://github.com/kayraserdar)
+- [Mahmut Aslan](https://github.com/mahmutaslan0)
+
+
